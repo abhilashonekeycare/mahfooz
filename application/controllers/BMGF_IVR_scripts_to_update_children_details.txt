@@ -1,0 +1,144 @@
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 21;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 22;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 22;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 22;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 22;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 23;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 23;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 23;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 23;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 24;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 24;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 24;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 24;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 25;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 25;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 25;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 25;
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 26;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 26;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 26;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 26;
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 27;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 27;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 27;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 27;
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 28;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 28;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 28;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 28;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 29;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 29;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 29;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 29;
+
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 30;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 30;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 30;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 30;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 31;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 31;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 31;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 31;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 32;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 32;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 32;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 32;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 33;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 33;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 33;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 33;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 34;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 34;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 34;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 34;
+
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 21;
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 21;
+
+UPDATE `children_details` SET `RVV3_done_date` = '09/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `IPV2_done_date` = '09/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `DPT3_done_date` = '09/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 21;
+UPDATE `children_details` SET `OPV3_done_date` = '09/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 21;
+
+========================BUCKET 3 ==============================================================
+
+UPDATE `children_details` SET `RVV1_done_date` = '05/10/2019', `RVV1` = 'true' WHERE `children_details`.`child_id` = 41;
+UPDATE `children_details` SET `OPV1_done_date` = '05/10/2019', `OPV1` = 'true' WHERE `children_details`.`child_id` = 41;
+UPDATE `children_details` SET `IPV1_done_date` = '05/10/2019', `IPV1` = 'true' WHERE `children_details`.`child_id` = 41;
+UPDATE `children_details` SET `DPT1_done_date` = '05/10/2019', `DPT1` = 'true' WHERE `children_details`.`child_id` = 41;
+
+
+===============BUCKET 4 =========================================================
+UPDATE `children_details` SET `RVV2_done_date` = '23/10/2019', `RVV2` = 'true' WHERE `children_details`.`child_id` = 46;
+UPDATE `children_details` SET `OPV2_done_date` = '23/10/2019', `OPV2` = 'true' WHERE `children_details`.`child_id` = 46;
+UPDATE `children_details` SET `DPT2_done_date` = '23/10/2019', `DPT2` = 'true' WHERE `children_details`.`child_id` = 46;
+
+UPDATE `children_details` SET `RVV2_done_date` = '30/10/2019', `RVV2` = 'true' WHERE `children_details`.`child_id` = 48;
+UPDATE `children_details` SET `OPV2_done_date` = '30/10/2019', `OPV2` = 'true' WHERE `children_details`.`child_id` = 48;
+UPDATE `children_details` SET `DPT2_done_date` = '30/10/2019', `DPT2` = 'true' WHERE `children_details`.`child_id` = 48;
+
+===================BUCKET 5 =================================================
+
+UPDATE `children_details` SET `RVV3_done_date` = '19/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 37;
+UPDATE `children_details` SET `IPV2_done_date` = '19/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 37;
+UPDATE `children_details` SET `DPT3_done_date` = '19/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 37;
+UPDATE `children_details` SET `OPV3_done_date` = '19/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 37;
+
+
+UPDATE `children_details` SET `RVV3_done_date` = '30/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 39;
+UPDATE `children_details` SET `IPV2_done_date` = '30/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 39;
+UPDATE `children_details` SET `DPT3_done_date` = '30/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 39;
+UPDATE `children_details` SET `OPV3_done_date` = '30/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 39;
+
+UPDATE `children_details` SET `RVV3_done_date` = '30/10/2019', `RVV3` = 'true' WHERE `children_details`.`child_id` = 45;
+UPDATE `children_details` SET `IPV2_done_date` = '30/10/2019', `IPV2` = 'true' WHERE `children_details`.`child_id` = 45;
+UPDATE `children_details` SET `DPT3_done_date` = '30/10/2019', `DPT3` = 'true' WHERE `children_details`.`child_id` = 45;
+UPDATE `children_details` SET `OPV3_done_date` = '30/10/2019', `OPV3` = 'true' WHERE `children_details`.`child_id` = 45;
+
+
+========================BUCKET 6 ==============================================================
+
+UPDATE `children_details` SET `MMR_done_date` = '30/10/2019', `MMR` = 'true' WHERE `children_details`.`child_id` = 26;
+UPDATE `children_details` SET `VIT_A_1_done_date` = '30/10/2019', `VIT_A_1` = 'true' WHERE `children_details`.`child_id` = 26;
+UPDATE `children_details` SET `JE1_done_date` = '30/10/2019', `JE1` = 'true' WHERE `children_details`.`child_id` = 26;
+
+========================BUCKET 7 ==============================================================
+UPDATE `children_details` SET `DPT_1_BOOSTER_done_date` = '05/10/2019', `DPT_1_BOOSTER` = 'true' WHERE `children_details`.`child_id` = 16;
+UPDATE `children_details` SET `MMR2_done_date` = '05/10/2019', `MMR2` = 'true' WHERE `children_details`.`child_id` = 16;
+UPDATE `children_details` SET `OPV_BOOSTER_done_date` = '05/10/2019', `OPV_BOOSTER` = 'true' WHERE `children_details`.`child_id` = 16;
+UPDATE `children_details` SET `JE2_done_date` = '05/10/2019', `JE2` = 'true' WHERE `children_details`.`child_id` = 16;
+
+
+
+DPT BOO 1	MR 2	OPV BOO	JE- 2
